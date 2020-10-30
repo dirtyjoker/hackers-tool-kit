@@ -1,24 +1,5 @@
 #!/usr/local/bin/python
-# coding: latin-1
-#if you use this code give me credit @tuf_unkn0wn
-#i do not give you permission to show / edit this script without my credit
-#to ask questions or report a problem message me on instagram @tuf_unkn0wn
-"""
-
-
- ██░ ██  ▄▄▄       ▄████▄   ██ ▄█▀▓█████ ▓█████▄ 
-▓██░ ██▒▒████▄    ▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▒██▀ ██▌
-▒██▀▀██░▒██  ▀█▄  ▒▓█    ▄ ▓███▄░ ▒███   ░██   █▌
-░▓█ ░██ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▓██ █▄ ▒▓█  ▄ ░▓█▄   ▌
-░▓█▒░██▓ ▓█   ▓██▒▒ ▓███▀ ░▒██▒ █▄░▒████▒░▒████▓ 
- ▒ ▒░▒ ▒▒   ▓▒█ ░▒ ▒  ░▒ ▒▒ ▓▒ ▒░ ░ ▒▒▓  ▒ 
- ▒ ░▒░ ░  ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░ ░ ░  ░ ░ ▒  ▒ 
- ░   ░  ░   ▒   ░        ░  ░    ░    ░ ░  ░ 
- ░  ░  ░      ░   ░      ░  ░      ░  ░   ░    
-                  ░                       ░      
-
-
-"""
+# coding: english
 import os
 import sys
 import random
